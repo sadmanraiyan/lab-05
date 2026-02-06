@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mohammad Sadman Sharar Sayem
+- **CCID:** msayem
 
 ## References and Resources
 
