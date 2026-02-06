@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517102099474",
+    "project_id": "cmput-301-lab-5-3b6e4",
+    "storage_bucket": "cmput-301-lab-5-3b6e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517102099474:android:7bc394b4642237f2b74ccb",
+        "android_client_info": {
+          "package_name": "com.example.lab5_starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAN2X5Oy_lBxvH2shrA2K3mM8Oad0r-LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
